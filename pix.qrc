@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/icon/bg.jpg</file>
+        <file>icon/icon/hqyj.jpg</file>
+        <file>icon/icon/kaifdog.png</file>
+        <file>icon/icon/kaisuo.png</file>
+        <file>icon/icon/login.jpg</file>
+        <file>icon/icon/login_qq.jpg</file>
+        <file>icon/icon/mian2.gif</file>
+        <file>icon/icon/next.png</file>
+        <file>icon/icon/pause.png</file>
+        <file>icon/icon/play.png</file>
+        <file>icon/icon/previous.png</file>
+        <file>icon/icon/qusefdogicon.png</file>
+        <file>icon/icon/sign.jpg</file>
+        <file>icon/icon/signup.jpg</file>
+        <file>icon/icon/suo.png</file>
+        <file>icon/icon/72247429AC0B37CA4050A6C433AA5EA7.png</file>
+        <file>icon/icon/redandblack.png</file>
+        <file>icon/icon/2ab7c542ebfcabfae06ff1044cb3630e.png</file>
+        <file>icon/icon/pri.png</file>
+        <file>icon/icon/start.png</file>
+        <file>icon/icon/soundoff.png</file>
+        <file>icon/icon/soundon.png</file>
+        <file>icon/icon/loginandsignup.jpg</file>
+    </qresource>
+</RCC>
